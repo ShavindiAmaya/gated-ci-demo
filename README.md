@@ -35,3 +35,4 @@ Automated CI runs on every push and pull request to the `dev`, `staging`, and `m
    ```bash
    npm test
    ```
+Health API feature prepared for CI validation.
